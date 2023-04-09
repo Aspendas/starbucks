@@ -9,6 +9,7 @@
     --color-secondary: #d50032;
     --color-inner-text: #1e3932;
     --color-extra: #d4e9e2;
+    --button-transition: all .2s ease;
 }
 
 * {
@@ -136,7 +137,7 @@ img {
 .btn-dark-outline {
     border-color: var(--color-black);
     color: var(--color-black);
-    transition: all .2s ease;
+    transition: var(--button-transition);
 }
 
 .btn-dark-outline:hover {
@@ -151,7 +152,7 @@ img {
 .btn-dark {
     background-color: var(--color-black);
     color: var(--color-white);
-    transition: all .2s ease;
+    transition: var(--button-transition);
 }
 
 .btn-dark:hover {
