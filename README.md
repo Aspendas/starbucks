@@ -1,3 +1,3 @@
 # starbucks
 
-(https://aspendas-starbucks.vercel.app/)[Live site]
+[Live site](https://aspendas-starbucks.vercel.app/)
