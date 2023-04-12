@@ -64,6 +64,7 @@ img {
 
 .navbar-container {
     display: flex;
+    margin: auto;
     justify-content: space-between;
     align-items: center;
     list-style: none;
